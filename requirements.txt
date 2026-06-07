@@ -1,2 +1,3 @@
 opencv-python
 mediapipe
+cap = cv2.VideoCapture(0)
